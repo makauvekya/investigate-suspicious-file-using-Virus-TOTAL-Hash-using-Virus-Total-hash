@@ -1,1 +1,1 @@
-# investigate-suspicious-file-using-Virus-TOTAL-Hash-using-Virus-Total-hash
+# investigate-suspicious-file-using-Virus-TOTAL
